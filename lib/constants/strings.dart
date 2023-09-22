@@ -7,6 +7,7 @@ class Strings{
   static String errorMessage = "Some Error Occurred";
   static String splashDescription = "Simplify Appointments with Ease";
   static String bookAppointment = "Book Appointment";
+  static String reviewSummary = "Review Summary";
   static String selectPackage = "Select Package";
   static String selectDuration = "Select Duration";
   static String patients = "Patients";

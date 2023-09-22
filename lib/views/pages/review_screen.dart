@@ -18,7 +18,7 @@ class ReviewAppointment extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: CustomText.text(
-          Strings.bookAppointment,
+          Strings.reviewSummary,
           color: AppThemeColors.black,
           fontWeight: FontWeight.bold,
           fontSize: 16,
